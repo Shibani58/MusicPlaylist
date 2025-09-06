@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601614572 source:c:\users\shiwa\desktop\try try\wowo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<MMsystem.h>
+
+1602303093 source:c:\users\shiwa\onedrive\desktop\try try\wowo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<MMsystem.h>
+
